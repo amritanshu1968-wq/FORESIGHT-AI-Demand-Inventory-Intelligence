@@ -1,0 +1,35 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing & Linting
+.pytest_cache/
+.coverage
+htmlcov/
+.qodo/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Submission Reports & Local Report Documents
+# Note: Technical reports and CSV/JSON artifacts in outputs/ are tracked.
+# Only standalone presentation binaries/submission reports are ignored.
+*.pdf
+*.docx
+outputs/reports/FORESIGHT_Project_Report*
+Zidio Project Report/

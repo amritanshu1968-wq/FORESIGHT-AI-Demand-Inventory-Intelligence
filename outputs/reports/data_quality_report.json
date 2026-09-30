@@ -1,0 +1,674 @@
+{
+  "title": "PROJECT FORESIGHT \u2014 Data Quality Profiling Report",
+  "data_source": "Synthetic retail dataset generated for project development and demonstration",
+  "tables": {
+    "sku_master": {
+      "name": "sku_master",
+      "row_count": 300,
+      "column_count": 17,
+      "duplicate_rows": 0,
+      "columns": {
+        "sku_id": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "top_values": {
+            "SKU-0001": 1,
+            "SKU-0002": 1,
+            "SKU-0003": 1
+          }
+        },
+        "product_name": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "top_values": {
+            "NorthBay Studio Cushions & Throws #001": 1,
+            "NorthBay Studio Pendant Lights #002": 1,
+            "NorthBay Studio Cast Iron Cookware #003": 1
+          }
+        },
+        "category": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 4,
+          "top_values": {
+            "Home Furnishings": 75,
+            "D\u00e9cor & Lighting": 75,
+            "Kitchen & Dining": 75
+          }
+        },
+        "subcategory": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 16,
+          "top_values": {
+            "Cast Iron Cookware": 26,
+            "Pendant Lights": 22,
+            "Espresso Machines": 22
+          }
+        },
+        "brand": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 3,
+          "top_values": {
+            "NorthBay Studio": 140,
+            "NorthBay Basics": 116,
+            "NorthBay Reserve": 44
+          }
+        },
+        "unit_price": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "min": 496.76,
+          "max": 16423.78,
+          "mean": 4928.78,
+          "median": 4150.08,
+          "std": 3577.06,
+          "negative_count": 0
+        },
+        "unit_cost": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "min": 289.28,
+          "max": 9316.23,
+          "mean": 2559.87,
+          "median": 2048.49,
+          "std": 1941.66,
+          "negative_count": 0
+        },
+        "margin_per_unit": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "min": 207.48,
+          "max": 9482.88,
+          "mean": 2368.92,
+          "median": 1992.94,
+          "std": 1715.33,
+          "negative_count": 0
+        },
+        "lead_time_days": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 36,
+          "min": 10.0,
+          "max": 45.0,
+          "mean": 23.1,
+          "median": 22.5,
+          "std": 7.83,
+          "negative_count": 0
+        },
+        "minimum_order_qty": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 5,
+          "min": 15.0,
+          "max": 100.0,
+          "mean": 52.38,
+          "median": 50.0,
+          "std": 30.01,
+          "negative_count": 0
+        },
+        "target_service_level": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 3,
+          "min": 0.9,
+          "max": 0.98,
+          "mean": 0.95,
+          "median": 0.95,
+          "std": 0.03,
+          "negative_count": 0
+        },
+        "shelf_life_days": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 4,
+          "min": 365.0,
+          "max": 1825.0,
+          "mean": 1025.65,
+          "median": 1095.0,
+          "std": 541.53,
+          "negative_count": 0
+        },
+        "supplier_id": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 15,
+          "top_values": {
+            "SUP-09": 28,
+            "SUP-02": 23,
+            "SUP-14": 23
+          }
+        },
+        "status": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "top_values": {
+            "Active": 279,
+            "Phasing Out": 21
+          }
+        },
+        "launch_date": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 200,
+          "top_values": {
+            "2022-01-07": 5,
+            "2022-03-06": 5,
+            "2022-09-05": 4
+          }
+        },
+        "demand_profile": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 4,
+          "top_values": {
+            "slow": 105,
+            "medium": 90,
+            "fast": 60
+          }
+        },
+        "inventory_scenario": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 4,
+          "top_values": {
+            "healthy": 192,
+            "volatile": 36,
+            "stockout_prone": 36
+          }
+        }
+      }
+    },
+    "calendar": {
+      "name": "calendar",
+      "row_count": 1096,
+      "column_count": 15,
+      "duplicate_rows": 0,
+      "columns": {
+        "date": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1096,
+          "top_values": {
+            "2023-01-01": 1,
+            "2023-01-02": 1,
+            "2023-01-03": 1
+          }
+        },
+        "day_of_week": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 7,
+          "min": 1.0,
+          "max": 7.0,
+          "mean": 4.0,
+          "median": 4.0,
+          "std": 2.0,
+          "negative_count": 0
+        },
+        "week": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 52,
+          "min": 1.0,
+          "max": 52.0,
+          "mean": 26.45,
+          "median": 26.0,
+          "std": 15.07,
+          "negative_count": 0
+        },
+        "month": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 12,
+          "min": 1.0,
+          "max": 12.0,
+          "mean": 6.52,
+          "median": 7.0,
+          "std": 3.45,
+          "negative_count": 0
+        },
+        "quarter": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 4,
+          "min": 1.0,
+          "max": 4.0,
+          "mean": 2.51,
+          "median": 3.0,
+          "std": 1.12,
+          "negative_count": 0
+        },
+        "year": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 3,
+          "min": 2023.0,
+          "max": 2025.0,
+          "mean": 2024.0,
+          "median": 2024.0,
+          "std": 0.82,
+          "negative_count": 0
+        },
+        "is_weekend": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.29,
+          "median": 0.0,
+          "std": 0.45,
+          "negative_count": 0
+        },
+        "is_holiday": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.02,
+          "median": 0.0,
+          "std": 0.14,
+          "negative_count": 0
+        },
+        "holiday_name": {
+          "dtype": "str",
+          "missing_count": 1072,
+          "missing_pct": 97.81,
+          "unique_count": 9,
+          "top_values": {
+            "nan": 1072,
+            "New Year's Day": 3,
+            "Republic Day": 3
+          }
+        },
+        "festival": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.05,
+          "median": 0.0,
+          "std": 0.22,
+          "negative_count": 0
+        },
+        "festival_name": {
+          "dtype": "str",
+          "missing_count": 1039,
+          "missing_pct": 94.8,
+          "unique_count": 3,
+          "top_values": {
+            "nan": 1039,
+            "Diwali Festive Season": 54,
+            "Holi Festival": 3
+          }
+        },
+        "season": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 5,
+          "top_values": {
+            "Monsoon": 276,
+            "Winter": 271,
+            "Spring": 183
+          }
+        },
+        "is_month_start": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.03,
+          "median": 0.0,
+          "std": 0.18,
+          "negative_count": 0
+        },
+        "is_month_end": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.03,
+          "median": 0.0,
+          "std": 0.18,
+          "negative_count": 0
+        },
+        "promo_event": {
+          "dtype": "str",
+          "missing_count": 1003,
+          "missing_pct": 91.51,
+          "unique_count": 8,
+          "top_values": {
+            "nan": 1003,
+            "Great Indian Festive Home Sale": 54,
+            "Summer Home Refresh Sale": 24
+          }
+        }
+      }
+    },
+    "sales_daily": {
+      "name": "sales_daily",
+      "row_count": 328800,
+      "column_count": 9,
+      "duplicate_rows": 0,
+      "columns": {
+        "date": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1096,
+          "top_values": {
+            "2023-01-01": 300,
+            "2023-01-02": 300,
+            "2023-01-03": 300
+          }
+        },
+        "sku_id": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "top_values": {
+            "SKU-0001": 1096,
+            "SKU-0002": 1096,
+            "SKU-0003": 1096
+          }
+        },
+        "units_sold": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 101,
+          "min": 0.0,
+          "max": 125.0,
+          "mean": 3.96,
+          "median": 1.0,
+          "std": 7.03,
+          "negative_count": 0
+        },
+        "unit_price": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1797,
+          "min": 347.73,
+          "max": 16423.78,
+          "mean": 4858.48,
+          "median": 4123.98,
+          "std": 3533.47,
+          "negative_count": 0
+        },
+        "revenue": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 13468,
+          "min": 0.0,
+          "max": 587091.24,
+          "mean": 15442.4,
+          "median": 2396.12,
+          "std": 31235.49,
+          "negative_count": 0
+        },
+        "promotion_flag": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.08,
+          "median": 0.0,
+          "std": 0.28,
+          "negative_count": 0
+        },
+        "discount_pct": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 6,
+          "min": 0.0,
+          "max": 0.3,
+          "mean": 0.01,
+          "median": 0.0,
+          "std": 0.05,
+          "negative_count": 0
+        },
+        "channel": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1,
+          "top_values": {
+            "Online D2C Store": 328800
+          }
+        },
+        "stockout_flag": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.28,
+          "median": 0.0,
+          "std": 0.45,
+          "negative_count": 0
+        }
+      }
+    },
+    "inventory_snapshots": {
+      "name": "inventory_snapshots",
+      "row_count": 328800,
+      "column_count": 13,
+      "duplicate_rows": 0,
+      "columns": {
+        "snapshot_date": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1096,
+          "top_values": {
+            "2023-01-01": 300,
+            "2023-01-02": 300,
+            "2023-01-03": 300
+          }
+        },
+        "sku_id": {
+          "dtype": "str",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 300,
+          "top_values": {
+            "SKU-0001": 1096,
+            "SKU-0002": 1096,
+            "SKU-0003": 1096
+          }
+        },
+        "opening_stock": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1889,
+          "min": 0.0,
+          "max": 2675.0,
+          "mean": 81.1,
+          "median": 30.0,
+          "std": 191.14,
+          "negative_count": 0
+        },
+        "stock_received": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 130,
+          "min": 0.0,
+          "max": 649.0,
+          "mean": 3.76,
+          "median": 0.0,
+          "std": 25.37,
+          "negative_count": 0
+        },
+        "units_sold": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 101,
+          "min": 0.0,
+          "max": 125.0,
+          "mean": 3.96,
+          "median": 1.0,
+          "std": 7.03,
+          "negative_count": 0
+        },
+        "closing_stock": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 1884,
+          "min": 0.0,
+          "max": 2643.0,
+          "mean": 80.9,
+          "median": 30.0,
+          "std": 190.74,
+          "negative_count": 0
+        },
+        "on_order_units": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 144,
+          "min": 0.0,
+          "max": 1298.0,
+          "mean": 82.03,
+          "median": 66.0,
+          "std": 99.37,
+          "negative_count": 0
+        },
+        "lead_time_days": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 36,
+          "min": 10.0,
+          "max": 45.0,
+          "mean": 23.1,
+          "median": 22.5,
+          "std": 7.81,
+          "negative_count": 0
+        },
+        "reorder_point": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 204,
+          "min": 8.0,
+          "max": 1343.0,
+          "mean": 212.51,
+          "median": 103.5,
+          "std": 242.14,
+          "negative_count": 0
+        },
+        "safety_stock": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 79,
+          "min": 5.0,
+          "max": 132.0,
+          "mean": 30.66,
+          "median": 19.0,
+          "std": 26.29,
+          "negative_count": 0
+        },
+        "days_of_cover": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2543,
+          "min": 0.0,
+          "max": 1487.4,
+          "mean": 39.38,
+          "median": 10.4,
+          "std": 91.61,
+          "negative_count": 0
+        },
+        "stockout_flag": {
+          "dtype": "int64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 2,
+          "min": 0.0,
+          "max": 1.0,
+          "mean": 0.28,
+          "median": 0.0,
+          "std": 0.45,
+          "negative_count": 0
+        },
+        "inventory_value": {
+          "dtype": "float64",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "unique_count": 39413,
+          "min": 0.0,
+          "max": 8043038.76,
+          "mean": 167934.16,
+          "median": 50416.4,
+          "std": 431346.62,
+          "negative_count": 0
+        }
+      }
+    }
+  },
+  "integrity_checks": {
+    "orphan_skus_sales": 0,
+    "orphan_skus_inventory": 0,
+    "orphan_dates_sales": 0,
+    "orphan_dates_inventory": 0,
+    "revenue_arithmetic_errors": 0,
+    "margin_arithmetic_errors": 0,
+    "inventory_balance_violations": 0,
+    "negative_sales_records": 0,
+    "negative_inventory_records": 0
+  }
+}

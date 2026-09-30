@@ -1,0 +1,90 @@
+{
+  "overall_demand": {
+    "mean_weekly_units": 8251.1,
+    "peak_weekly_units": 13766,
+    "min_weekly_units": 2865
+  },
+  "category_breakdown": {
+    "Small Appliances": {
+      "total_units": 252780,
+      "total_revenue": 1604984794.11,
+      "unit_share_pct": 19.39,
+      "rev_share_pct": 31.61
+    },
+    "D\u00e9cor & Lighting": {
+      "total_units": 353214,
+      "total_revenue": 1556195304.79,
+      "unit_share_pct": 27.09,
+      "rev_share_pct": 30.65
+    },
+    "Home Furnishings": {
+      "total_units": 347265,
+      "total_revenue": 1058908125.36,
+      "unit_share_pct": 26.64,
+      "rev_share_pct": 20.86
+    },
+    "Kitchen & Dining": {
+      "total_units": 350417,
+      "total_revenue": 857371394.37,
+      "unit_share_pct": 26.88,
+      "rev_share_pct": 16.89
+    }
+  },
+  "abc_pareto": {
+    "counts": {
+      "C": 128,
+      "A": 98,
+      "B": 74
+    },
+    "revenue_shares_pct": {
+      "A": 69.7,
+      "B": 20.3,
+      "C": 10.0
+    },
+    "class_a_sku_count": 98,
+    "class_a_sku_pct": 32.7
+  },
+  "weekly_seasonality": {
+    "weekday_avg_units": 3.72,
+    "weekend_avg_units": 4.58,
+    "weekend_lift_pct": 22.96
+  },
+  "monthly_seasonality": {
+    "peak_month": "Jan",
+    "peak_units": 4.58,
+    "trough_month": "Jun",
+    "trough_units": 3.73
+  },
+  "festival_lift": {
+    "non_festival_avg": 3.88,
+    "festival_avg": 5.47,
+    "festival_lift_pct": 40.9
+  },
+  "promo_lift": {
+    "non_promo_avg": 3.84,
+    "promo_avg": 5.32,
+    "promo_lift_pct": 38.37
+  },
+  "stockout_rates_by_category": {
+    "Small Appliances": 37.58,
+    "D\u00e9cor & Lighting": 30.61,
+    "Home Furnishings": 27.2,
+    "Kitchen & Dining": 15.13
+  },
+  "overstock_rates_by_category": {
+    "Small Appliances": 21.13,
+    "Kitchen & Dining": 19.57,
+    "D\u00e9cor & Lighting": 11.23,
+    "Home Furnishings": 9.8
+  },
+  "latest_inventory_value": {
+    "snapshot_date": "2025-12-31",
+    "total_warehouse_value_inr": 42783913.47,
+    "category_shares_million_inr": {
+      "Small Appliances": 17.02,
+      "Home Furnishings": 9.24,
+      "D\u00e9cor & Lighting": 8.97,
+      "Kitchen & Dining": 7.55
+    }
+  }
+}

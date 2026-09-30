@@ -1,0 +1,2 @@
+dataset,issue,rows_affected,action_taken,reason
+all_datasets,None,0,"Schema verified, types standardized, 0 rows modified",No corrective cleaning required; validation passed.

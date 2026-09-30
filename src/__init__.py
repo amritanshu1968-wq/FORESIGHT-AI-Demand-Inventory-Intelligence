@@ -1,0 +1,1 @@
+"""FORESIGHT source package."""

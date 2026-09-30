@@ -1,0 +1,6 @@
+Model,WAPE,MAE,RMSE,Bias,MAPE
+HistGradientBoosting,38.22,10.43,18.72,0.85,50.08
+Ridge Regression,53.06,14.49,24.88,2.34,58.57
+Moving Average (4w),62.38,17.03,28.78,2.03,66.77
+Seasonal Naive (52w),68.78,18.78,35.11,-1.01,77.86
+Last-Week Naive,79.45,21.69,40.39,2.03,99.64

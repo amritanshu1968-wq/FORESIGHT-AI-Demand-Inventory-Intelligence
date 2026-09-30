@@ -1,0 +1,71 @@
+{
+  "dataset_summary": {
+    "sku_master_rows": 300,
+    "sku_master_cols": 17,
+    "calendar_rows": 1096,
+    "calendar_cols": 15,
+    "sales_daily_rows": 328800,
+    "sales_daily_cols": 9,
+    "inventory_snapshots_rows": 328800,
+    "inventory_snapshots_cols": 13
+  },
+  "date_range": {
+    "start_date": "2023-01-01",
+    "end_date": "2025-12-31",
+    "total_days": 1096
+  },
+  "sku_coverage": {
+    "total_skus": 300,
+    "categories": {
+      "Home Furnishings": 75,
+      "D\u00e9cor & Lighting": 75,
+      "Kitchen & Dining": 75,
+      "Small Appliances": 75
+    }
+  },
+  "missing_values": {
+    "sku_master": 0,
+    "calendar": 0,
+    "sales_daily": 0,
+    "inventory_snapshots": 0
+  },
+  "duplicate_rows": {
+    "sku_master": 0,
+    "calendar": 0,
+    "sales_daily": 0,
+    "inventory_snapshots": 0
+  },
+  "validation_checks": {
+    "sku_master_pk_duplicates": 0,
+    "calendar_pk_duplicates": 0,
+    "sales_daily_composite_key_duplicates": 0,
+    "inventory_composite_key_duplicates": 0,
+    "orphan_sales_skus_count": 0,
+    "orphan_sales_dates_count": 0,
+    "orphan_inventory_skus_count": 0,
+    "orphan_inventory_dates_count": 0,
+    "invalid_costs": 0,
+    "invalid_prices": 0,
+    "cost_exceeds_price": 0,
+    "margin_arithmetic_errors": 0,
+    "negative_units_sold": 0,
+    "negative_revenue": 0,
+    "invalid_discount_pct": 0,
+    "negative_opening_stock": 0,
+    "negative_stock_received": 0,
+    "negative_closing_stock": 0,
+    "balance_equation_violations": 0,
+    "oversold_violations": 0,
+    "cross_table_sales_mismatch": 0,
+    "cross_table_stockout_mismatch": 0,
+    "temporal_continuity_breaks": 0
+  },
+  "operational_metrics": {
+    "stockout_events_count": 90846,
+    "stockout_percentage": 27.63,
+    "overstock_snapshot_count": 50741,
+    "overstock_percentage": 15.43,
+    "total_units_sold": 1303676,
+    "total_revenue_inr": 5077459618.63
+  }
+}

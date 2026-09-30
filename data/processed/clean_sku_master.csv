@@ -1,0 +1,301 @@
+sku_id,product_name,category,subcategory,brand,unit_price,unit_cost,margin_per_unit,lead_time_days,minimum_order_qty,target_service_level,shelf_life_days,supplier_id,status,launch_date,demand_profile,inventory_scenario
+SKU-0001,NorthBay Studio Cushions & Throws #001,Home Furnishings,Cushions & Throws,NorthBay Studio,5365.49,2330.99,3034.5,28,75,0.95,1825,SUP-02,Phasing Out,2022-03-08,intermittent,healthy
+SKU-0002,NorthBay Studio Pendant Lights #002,Décor & Lighting,Pendant Lights,NorthBay Studio,4585.79,2159.73,2426.06,13,75,0.98,365,SUP-09,Active,2022-07-22,intermittent,healthy
+SKU-0003,NorthBay Studio Cast Iron Cookware #003,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,4035.02,1710.68,2324.34,15,75,0.9,1095,SUP-12,Phasing Out,2022-12-07,medium,healthy
+SKU-0004,NorthBay Basics Espresso Machines #004,Small Appliances,Espresso Machines,NorthBay Basics,4344.98,2614.18,1730.8,42,15,0.98,730,SUP-12,Active,2022-05-30,slow,healthy
+SKU-0005,NorthBay Basics Cushions & Throws #005,Home Furnishings,Cushions & Throws,NorthBay Basics,1627.24,701.01,926.23,24,25,0.95,1095,SUP-09,Active,2022-06-19,slow,healthy
+SKU-0006,NorthBay Studio Pendant Lights #006,Décor & Lighting,Pendant Lights,NorthBay Studio,4615.99,2488.91,2127.08,25,50,0.9,365,SUP-14,Active,2022-01-11,fast,healthy
+SKU-0007,NorthBay Studio Cast Iron Cookware #007,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,3535.49,1743.26,1792.23,17,50,0.95,365,SUP-15,Active,2022-03-01,medium,healthy
+SKU-0008,NorthBay Studio Cold Press Juicers #008,Small Appliances,Cold Press Juicers,NorthBay Studio,7950.48,4175.38,3775.1,28,25,0.95,1095,SUP-03,Active,2022-08-26,intermittent,healthy
+SKU-0009,NorthBay Basics Rugs & Mats #009,Home Furnishings,Rugs & Mats,NorthBay Basics,2602.42,1203.65,1398.77,25,50,0.95,1095,SUP-06,Active,2022-06-22,fast,volatile
+SKU-0010,NorthBay Basics Vases & Planters #010,Décor & Lighting,Vases & Planters,NorthBay Basics,7602.58,3313.12,4289.46,18,50,0.95,1825,SUP-13,Active,2022-09-25,slow,healthy
+SKU-0011,NorthBay Basics Glassware #011,Kitchen & Dining,Glassware,NorthBay Basics,1035.08,626.83,408.25,26,100,0.9,730,SUP-14,Active,2022-12-04,slow,volatile
+SKU-0012,NorthBay Studio Air Fryers #012,Small Appliances,Air Fryers,NorthBay Studio,12717.58,7847.55,4870.03,24,100,0.98,730,SUP-07,Active,2022-08-03,intermittent,healthy
+SKU-0013,NorthBay Studio Bedding #013,Home Furnishings,Bedding,NorthBay Studio,2880.04,1233.56,1646.48,24,100,0.95,730,SUP-02,Active,2022-07-31,slow,healthy
+SKU-0014,NorthBay Studio Table Lamps #014,Décor & Lighting,Table Lamps,NorthBay Studio,5663.02,3498.92,2164.1,21,25,0.95,365,SUP-11,Active,2022-07-15,fast,healthy
+SKU-0015,NorthBay Reserve Dinnerware Sets #015,Kitchen & Dining,Dinnerware Sets,NorthBay Reserve,3257.65,1473.06,1784.59,26,100,0.9,730,SUP-13,Active,2022-07-02,intermittent,healthy
+SKU-0016,NorthBay Basics Air Fryers #016,Small Appliances,Air Fryers,NorthBay Basics,8176.55,4301.97,3874.58,22,15,0.9,1825,SUP-14,Phasing Out,2022-10-04,slow,healthy
+SKU-0017,NorthBay Studio Rugs & Mats #017,Home Furnishings,Rugs & Mats,NorthBay Studio,3594.13,1806.81,1787.32,17,50,0.9,365,SUP-11,Active,2022-09-25,medium,volatile
+SKU-0018,NorthBay Basics Vases & Planters #018,Décor & Lighting,Vases & Planters,NorthBay Basics,5894.61,2755.26,3139.35,20,15,0.95,1095,SUP-10,Active,2022-04-05,fast,healthy
+SKU-0019,NorthBay Basics Cutlery Sets #019,Kitchen & Dining,Cutlery Sets,NorthBay Basics,4331.57,1947.46,2384.11,26,50,0.98,1095,SUP-06,Active,2022-09-12,medium,volatile
+SKU-0020,NorthBay Basics Air Fryers #020,Small Appliances,Air Fryers,NorthBay Basics,9611.74,5757.47,3854.27,28,25,0.98,1095,SUP-01,Active,2022-05-17,slow,healthy
+SKU-0021,NorthBay Studio Bedding #021,Home Furnishings,Bedding,NorthBay Studio,941.49,409.08,532.41,19,50,0.95,1095,SUP-11,Phasing Out,2022-11-11,slow,stockout_prone
+SKU-0022,NorthBay Basics Pendant Lights #022,Décor & Lighting,Pendant Lights,NorthBay Basics,5606.78,2375.25,3231.53,14,75,0.95,1825,SUP-13,Active,2022-01-07,intermittent,volatile
+SKU-0023,NorthBay Reserve Glassware #023,Kitchen & Dining,Glassware,NorthBay Reserve,4399.13,1964.83,2434.3,24,15,0.95,730,SUP-02,Active,2022-03-12,slow,stockout_prone
+SKU-0024,NorthBay Reserve Electric Kettles #024,Small Appliances,Electric Kettles,NorthBay Reserve,16273.3,9151.36,7121.94,37,75,0.95,730,SUP-13,Active,2022-05-14,intermittent,healthy
+SKU-0025,NorthBay Basics Cushions & Throws #025,Home Furnishings,Cushions & Throws,NorthBay Basics,3591.29,1518.73,2072.56,14,50,0.98,730,SUP-13,Active,2022-10-05,intermittent,healthy
+SKU-0026,NorthBay Basics Wall Art #026,Décor & Lighting,Wall Art,NorthBay Basics,6936.27,3017.69,3918.58,11,100,0.9,730,SUP-07,Phasing Out,2022-12-12,intermittent,healthy
+SKU-0027,NorthBay Basics Dinnerware Sets #027,Kitchen & Dining,Dinnerware Sets,NorthBay Basics,4051.95,1885.19,2166.76,13,100,0.95,1825,SUP-01,Phasing Out,2022-08-11,fast,healthy
+SKU-0028,NorthBay Basics Electric Kettles #028,Small Appliances,Electric Kettles,NorthBay Basics,14414.44,8923.98,5490.46,26,50,0.95,365,SUP-15,Active,2022-06-22,medium,healthy
+SKU-0029,NorthBay Basics Rugs & Mats #029,Home Furnishings,Rugs & Mats,NorthBay Basics,2154.65,968.39,1186.26,29,25,0.98,730,SUP-08,Active,2022-02-06,slow,volatile
+SKU-0030,NorthBay Studio Pendant Lights #030,Décor & Lighting,Pendant Lights,NorthBay Studio,7603.8,4429.07,3174.73,16,15,0.95,1095,SUP-11,Active,2022-07-21,medium,healthy
+SKU-0031,NorthBay Studio Glassware #031,Kitchen & Dining,Glassware,NorthBay Studio,2510.11,1487.58,1022.53,28,50,0.98,1095,SUP-02,Active,2022-02-23,medium,healthy
+SKU-0032,NorthBay Reserve Espresso Machines #032,Small Appliances,Espresso Machines,NorthBay Reserve,9104.67,5400.22,3704.45,30,25,0.9,365,SUP-02,Phasing Out,2022-08-26,medium,healthy
+SKU-0033,NorthBay Basics Cushions & Throws #033,Home Furnishings,Cushions & Throws,NorthBay Basics,2756.77,1477.42,1279.35,21,100,0.95,1095,SUP-14,Active,2022-07-02,fast,healthy
+SKU-0034,NorthBay Studio Pendant Lights #034,Décor & Lighting,Pendant Lights,NorthBay Studio,3170.21,1389.14,1781.07,24,50,0.95,1095,SUP-05,Active,2022-10-15,intermittent,healthy
+SKU-0035,NorthBay Studio Cast Iron Cookware #035,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,2078.59,1224.11,854.48,17,100,0.95,1095,SUP-06,Active,2022-12-10,slow,overstock_prone
+SKU-0036,NorthBay Studio Cold Press Juicers #036,Small Appliances,Cold Press Juicers,NorthBay Studio,8800.98,3705.74,5095.24,40,75,0.98,1825,SUP-09,Active,2022-05-01,intermittent,overstock_prone
+SKU-0037,NorthBay Basics Cushions & Throws #037,Home Furnishings,Cushions & Throws,NorthBay Basics,1380.8,675.79,705.01,17,100,0.95,730,SUP-05,Phasing Out,2022-01-25,slow,overstock_prone
+SKU-0038,NorthBay Studio Vases & Planters #038,Décor & Lighting,Vases & Planters,NorthBay Studio,924.52,527.7,396.82,25,15,0.95,1095,SUP-09,Active,2022-09-27,fast,volatile
+SKU-0039,NorthBay Studio Cast Iron Cookware #039,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,2391.75,1453.93,937.82,12,75,0.95,730,SUP-14,Active,2022-01-10,intermittent,healthy
+SKU-0040,NorthBay Studio Espresso Machines #040,Small Appliances,Espresso Machines,NorthBay Studio,3447.43,1542.54,1904.89,30,15,0.95,730,SUP-03,Active,2022-09-23,fast,healthy
+SKU-0041,NorthBay Basics Cushions & Throws #041,Home Furnishings,Cushions & Throws,NorthBay Basics,5594.86,3177.49,2417.37,21,25,0.95,730,SUP-04,Active,2022-02-02,fast,stockout_prone
+SKU-0042,NorthBay Studio Pendant Lights #042,Décor & Lighting,Pendant Lights,NorthBay Studio,7950.04,4851.8,3098.24,13,50,0.95,365,SUP-08,Phasing Out,2022-10-24,medium,healthy
+SKU-0043,NorthBay Reserve Dinnerware Sets #043,Kitchen & Dining,Dinnerware Sets,NorthBay Reserve,496.76,289.28,207.48,14,15,0.9,1095,SUP-13,Active,2022-04-19,medium,healthy
+SKU-0044,NorthBay Basics Espresso Machines #044,Small Appliances,Espresso Machines,NorthBay Basics,14286.7,8844.21,5442.49,34,100,0.95,365,SUP-05,Active,2022-07-18,medium,volatile
+SKU-0045,NorthBay Studio Curtains #045,Home Furnishings,Curtains,NorthBay Studio,6037.12,3194.29,2842.83,28,75,0.98,730,SUP-15,Active,2022-12-04,slow,stockout_prone
+SKU-0046,NorthBay Basics Table Lamps #046,Décor & Lighting,Table Lamps,NorthBay Basics,5345.8,3083.08,2262.72,15,50,0.95,365,SUP-08,Phasing Out,2022-03-07,fast,healthy
+SKU-0047,NorthBay Studio Glassware #047,Kitchen & Dining,Glassware,NorthBay Studio,1285.71,610.67,675.04,17,75,0.95,730,SUP-13,Active,2022-03-06,intermittent,healthy
+SKU-0048,NorthBay Studio Espresso Machines #048,Small Appliances,Espresso Machines,NorthBay Studio,3912.66,1883.48,2029.18,35,15,0.95,1825,SUP-01,Phasing Out,2022-11-18,medium,overstock_prone
+SKU-0049,NorthBay Reserve Curtains #049,Home Furnishings,Curtains,NorthBay Reserve,4132.44,2457.22,1675.22,14,100,0.98,1095,SUP-09,Active,2022-08-03,intermittent,healthy
+SKU-0050,NorthBay Studio Table Lamps #050,Décor & Lighting,Table Lamps,NorthBay Studio,5297.08,2971.92,2325.16,14,75,0.98,365,SUP-06,Active,2022-10-24,medium,overstock_prone
+SKU-0051,NorthBay Reserve Cast Iron Cookware #051,Kitchen & Dining,Cast Iron Cookware,NorthBay Reserve,1731.01,861.78,869.23,15,50,0.95,1095,SUP-03,Active,2022-04-02,fast,healthy
+SKU-0052,NorthBay Basics Electric Kettles #052,Small Appliances,Electric Kettles,NorthBay Basics,16256.23,8715.7,7540.53,34,50,0.9,1825,SUP-14,Active,2022-12-20,medium,healthy
+SKU-0053,NorthBay Studio Cushions & Throws #053,Home Furnishings,Cushions & Throws,NorthBay Studio,5871.04,3176.22,2694.82,20,75,0.9,1825,SUP-03,Active,2022-08-23,slow,healthy
+SKU-0054,NorthBay Reserve Wall Art #054,Décor & Lighting,Wall Art,NorthBay Reserve,7809.4,4510.48,3298.92,13,50,0.95,1825,SUP-06,Active,2022-05-11,fast,overstock_prone
+SKU-0055,NorthBay Basics Dinnerware Sets #055,Kitchen & Dining,Dinnerware Sets,NorthBay Basics,4142.24,1919.55,2222.69,20,50,0.9,1825,SUP-15,Active,2022-03-23,medium,healthy
+SKU-0056,NorthBay Studio Electric Kettles #056,Small Appliances,Electric Kettles,NorthBay Studio,4804.64,2264.33,2540.31,40,15,0.98,730,SUP-07,Active,2022-01-06,fast,stockout_prone
+SKU-0057,NorthBay Studio Curtains #057,Home Furnishings,Curtains,NorthBay Studio,2619.06,1304.95,1314.11,29,50,0.95,1095,SUP-09,Active,2022-12-29,medium,overstock_prone
+SKU-0058,NorthBay Studio Wall Art #058,Décor & Lighting,Wall Art,NorthBay Studio,3579.93,1937.38,1642.55,17,15,0.9,1095,SUP-12,Active,2022-09-11,fast,healthy
+SKU-0059,NorthBay Studio Cast Iron Cookware #059,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,949.57,445.63,503.94,28,100,0.95,365,SUP-09,Active,2022-07-11,slow,stockout_prone
+SKU-0060,NorthBay Basics Air Fryers #060,Small Appliances,Air Fryers,NorthBay Basics,5613.77,3429.82,2183.95,33,50,0.98,1095,SUP-01,Active,2022-10-04,slow,overstock_prone
+SKU-0061,NorthBay Studio Curtains #061,Home Furnishings,Curtains,NorthBay Studio,2480.21,1158.36,1321.85,15,100,0.98,1825,SUP-05,Active,2022-11-24,fast,healthy
+SKU-0062,NorthBay Studio Pendant Lights #062,Décor & Lighting,Pendant Lights,NorthBay Studio,1688.57,944.09,744.48,25,50,0.9,1825,SUP-04,Active,2022-03-09,slow,overstock_prone
+SKU-0063,NorthBay Studio Dinnerware Sets #063,Kitchen & Dining,Dinnerware Sets,NorthBay Studio,1728.94,1016.51,712.43,21,100,0.95,1095,SUP-02,Active,2022-06-24,slow,healthy
+SKU-0064,NorthBay Studio Electric Kettles #064,Small Appliances,Electric Kettles,NorthBay Studio,12972.22,6038.95,6933.27,29,25,0.98,365,SUP-01,Active,2022-08-05,intermittent,healthy
+SKU-0065,NorthBay Studio Rugs & Mats #065,Home Furnishings,Rugs & Mats,NorthBay Studio,5624.93,3285.53,2339.4,15,50,0.95,365,SUP-10,Active,2022-10-26,medium,healthy
+SKU-0066,NorthBay Reserve Table Lamps #066,Décor & Lighting,Table Lamps,NorthBay Reserve,3280.64,1685.69,1594.95,23,25,0.95,365,SUP-11,Active,2022-09-15,slow,stockout_prone
+SKU-0067,NorthBay Basics Cast Iron Cookware #067,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,3064.19,1599.13,1465.06,27,50,0.95,730,SUP-07,Active,2022-03-06,slow,healthy
+SKU-0068,NorthBay Reserve Air Fryers #068,Small Appliances,Air Fryers,NorthBay Reserve,8885.85,3815.22,5070.63,23,15,0.95,365,SUP-03,Active,2022-01-16,medium,healthy
+SKU-0069,NorthBay Studio Curtains #069,Home Furnishings,Curtains,NorthBay Studio,6026.04,3348.63,2677.41,14,75,0.95,730,SUP-14,Active,2022-01-12,medium,healthy
+SKU-0070,NorthBay Reserve Wall Art #070,Décor & Lighting,Wall Art,NorthBay Reserve,7064.63,3332.22,3732.41,12,50,0.9,1825,SUP-06,Active,2022-03-05,slow,volatile
+SKU-0071,NorthBay Studio Glassware #071,Kitchen & Dining,Glassware,NorthBay Studio,4462.01,2210.74,2251.27,12,75,0.95,365,SUP-01,Active,2022-03-06,medium,healthy
+SKU-0072,NorthBay Basics Cold Press Juicers #072,Small Appliances,Cold Press Juicers,NorthBay Basics,1833.94,772.69,1061.25,31,25,0.9,730,SUP-05,Active,2022-08-09,intermittent,healthy
+SKU-0073,NorthBay Basics Cushions & Throws #073,Home Furnishings,Cushions & Throws,NorthBay Basics,3039.69,1324.18,1715.51,16,25,0.95,730,SUP-10,Active,2022-04-14,medium,healthy
+SKU-0074,NorthBay Basics Wall Art #074,Décor & Lighting,Wall Art,NorthBay Basics,8105.48,4469.83,3635.65,19,15,0.95,1825,SUP-09,Phasing Out,2022-01-07,intermittent,healthy
+SKU-0075,NorthBay Reserve Cutlery Sets #075,Kitchen & Dining,Cutlery Sets,NorthBay Reserve,4235.57,1785.88,2449.69,19,50,0.95,730,SUP-07,Active,2022-10-31,medium,stockout_prone
+SKU-0076,NorthBay Basics Cold Press Juicers #076,Small Appliances,Cold Press Juicers,NorthBay Basics,7726.16,3922.08,3804.08,29,75,0.95,1825,SUP-03,Active,2022-04-12,medium,healthy
+SKU-0077,NorthBay Studio Bedding #077,Home Furnishings,Bedding,NorthBay Studio,3126.49,1663.26,1463.23,25,15,0.9,1095,SUP-04,Active,2022-09-05,slow,healthy
+SKU-0078,NorthBay Studio Wall Art #078,Décor & Lighting,Wall Art,NorthBay Studio,3179.72,1845.63,1334.09,20,75,0.98,365,SUP-03,Active,2022-04-02,slow,healthy
+SKU-0079,NorthBay Studio Cast Iron Cookware #079,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,1150.21,647.91,502.3,14,75,0.98,365,SUP-05,Active,2022-04-06,fast,healthy
+SKU-0080,NorthBay Reserve Cold Press Juicers #080,Small Appliances,Cold Press Juicers,NorthBay Reserve,10767.89,6126.7,4641.19,38,75,0.95,1825,SUP-05,Active,2022-04-14,intermittent,healthy
+SKU-0081,NorthBay Studio Cushions & Throws #081,Home Furnishings,Cushions & Throws,NorthBay Studio,3080.35,1370.69,1709.66,25,75,0.95,1825,SUP-15,Active,2022-10-29,medium,healthy
+SKU-0082,NorthBay Basics Pendant Lights #082,Décor & Lighting,Pendant Lights,NorthBay Basics,4469.61,2206.02,2263.59,15,25,0.95,1825,SUP-13,Active,2022-08-07,medium,stockout_prone
+SKU-0083,NorthBay Reserve Dinnerware Sets #083,Kitchen & Dining,Dinnerware Sets,NorthBay Reserve,4212.21,1967.38,2244.83,26,75,0.95,730,SUP-04,Active,2022-05-18,slow,healthy
+SKU-0084,NorthBay Studio Cold Press Juicers #084,Small Appliances,Cold Press Juicers,NorthBay Studio,5589.78,2810.58,2779.2,36,50,0.95,1825,SUP-06,Active,2022-05-07,intermittent,healthy
+SKU-0085,NorthBay Studio Rugs & Mats #085,Home Furnishings,Rugs & Mats,NorthBay Studio,2715.94,1250.68,1465.26,16,100,0.9,1825,SUP-03,Active,2022-04-21,slow,stockout_prone
+SKU-0086,NorthBay Reserve Table Lamps #086,Décor & Lighting,Table Lamps,NorthBay Reserve,2121.47,1249.99,871.48,16,50,0.95,1825,SUP-01,Active,2022-02-15,intermittent,stockout_prone
+SKU-0087,NorthBay Studio Glassware #087,Kitchen & Dining,Glassware,NorthBay Studio,4443.23,2514.31,1928.92,13,100,0.95,365,SUP-08,Active,2022-07-20,medium,healthy
+SKU-0088,NorthBay Studio Cold Press Juicers #088,Small Appliances,Cold Press Juicers,NorthBay Studio,9917.12,5155.38,4761.74,24,75,0.95,1825,SUP-05,Active,2023-01-01,fast,healthy
+SKU-0089,NorthBay Studio Bedding #089,Home Furnishings,Bedding,NorthBay Studio,4948.71,2101.55,2847.16,22,25,0.95,730,SUP-05,Active,2022-10-29,slow,healthy
+SKU-0090,NorthBay Studio Pendant Lights #090,Décor & Lighting,Pendant Lights,NorthBay Studio,6820.96,3093.82,3727.14,20,100,0.95,730,SUP-14,Active,2022-08-10,slow,healthy
+SKU-0091,NorthBay Basics Glassware #091,Kitchen & Dining,Glassware,NorthBay Basics,4959.81,2932.33,2027.48,25,100,0.9,365,SUP-09,Active,2022-09-05,slow,healthy
+SKU-0092,NorthBay Studio Air Fryers #092,Small Appliances,Air Fryers,NorthBay Studio,1807.63,962.99,844.64,21,75,0.9,1095,SUP-13,Active,2022-08-31,fast,overstock_prone
+SKU-0093,NorthBay Studio Cushions & Throws #093,Home Furnishings,Cushions & Throws,NorthBay Studio,5706.57,2598.63,3107.94,16,50,0.98,365,SUP-09,Active,2022-12-17,slow,overstock_prone
+SKU-0094,NorthBay Studio Wall Art #094,Décor & Lighting,Wall Art,NorthBay Studio,6543.4,3397.1,3146.3,21,75,0.95,730,SUP-09,Active,2022-09-11,medium,healthy
+SKU-0095,NorthBay Basics Glassware #095,Kitchen & Dining,Glassware,NorthBay Basics,1050.5,633.25,417.25,15,15,0.9,1825,SUP-06,Active,2022-12-16,fast,healthy
+SKU-0096,NorthBay Studio Cold Press Juicers #096,Small Appliances,Cold Press Juicers,NorthBay Studio,11407.04,6048.63,5358.41,45,25,0.98,1825,SUP-14,Active,2022-01-19,fast,healthy
+SKU-0097,NorthBay Studio Cushions & Throws #097,Home Furnishings,Cushions & Throws,NorthBay Studio,4539.62,2552.1,1987.52,17,75,0.95,1095,SUP-04,Active,2022-04-04,fast,overstock_prone
+SKU-0098,NorthBay Studio Pendant Lights #098,Décor & Lighting,Pendant Lights,NorthBay Studio,990.73,495.06,495.67,21,50,0.95,730,SUP-06,Active,2022-09-18,intermittent,healthy
+SKU-0099,NorthBay Basics Cast Iron Cookware #099,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,2396.12,1355.87,1040.25,26,50,0.95,1095,SUP-02,Active,2022-07-21,slow,healthy
+SKU-0100,NorthBay Studio Electric Kettles #100,Small Appliances,Electric Kettles,NorthBay Studio,4920.47,2170.41,2750.06,21,75,0.9,1825,SUP-12,Active,2022-03-01,medium,healthy
+SKU-0101,NorthBay Reserve Curtains #101,Home Furnishings,Curtains,NorthBay Reserve,1139.07,657.2,481.87,22,50,0.9,1095,SUP-08,Active,2022-09-14,medium,overstock_prone
+SKU-0102,NorthBay Studio Vases & Planters #102,Décor & Lighting,Vases & Planters,NorthBay Studio,3939.6,2303.77,1635.83,11,15,0.98,730,SUP-02,Active,2022-10-28,medium,stockout_prone
+SKU-0103,NorthBay Studio Cast Iron Cookware #103,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,1787.28,889.89,897.39,12,25,0.98,1825,SUP-07,Active,2022-12-21,intermittent,healthy
+SKU-0104,NorthBay Studio Electric Kettles #104,Small Appliances,Electric Kettles,NorthBay Studio,10907.67,6496.68,4410.99,22,100,0.95,1825,SUP-03,Active,2022-11-25,slow,healthy
+SKU-0105,NorthBay Studio Bedding #105,Home Furnishings,Bedding,NorthBay Studio,3087.21,1714.06,1373.15,30,100,0.95,1825,SUP-08,Active,2022-02-01,medium,healthy
+SKU-0106,NorthBay Basics Vases & Planters #106,Décor & Lighting,Vases & Planters,NorthBay Basics,4500.01,1916.21,2583.8,25,25,0.95,1095,SUP-15,Active,2022-03-17,medium,healthy
+SKU-0107,NorthBay Studio Glassware #107,Kitchen & Dining,Glassware,NorthBay Studio,971.58,434.07,537.51,17,50,0.95,730,SUP-01,Active,2022-05-03,slow,healthy
+SKU-0108,NorthBay Reserve Electric Kettles #108,Small Appliances,Electric Kettles,NorthBay Reserve,15511.86,8402.8,7109.06,36,25,0.95,1095,SUP-12,Active,2022-01-13,slow,healthy
+SKU-0109,NorthBay Basics Cushions & Throws #109,Home Furnishings,Cushions & Throws,NorthBay Basics,2628.08,1447.69,1180.39,25,25,0.9,365,SUP-02,Active,2022-09-12,fast,healthy
+SKU-0110,NorthBay Studio Vases & Planters #110,Décor & Lighting,Vases & Planters,NorthBay Studio,5045.11,2365.61,2679.5,16,25,0.98,1825,SUP-08,Active,2022-01-12,slow,healthy
+SKU-0111,NorthBay Studio Cast Iron Cookware #111,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,5224.88,2829.29,2395.59,23,100,0.95,365,SUP-02,Phasing Out,2022-01-09,intermittent,healthy
+SKU-0112,NorthBay Basics Electric Kettles #112,Small Appliances,Electric Kettles,NorthBay Basics,2190.03,1032.18,1157.85,37,100,0.95,730,SUP-03,Phasing Out,2022-10-19,slow,volatile
+SKU-0113,NorthBay Studio Rugs & Mats #113,Home Furnishings,Rugs & Mats,NorthBay Studio,5808.95,3168.13,2640.82,27,50,0.95,365,SUP-13,Active,2022-05-01,slow,healthy
+SKU-0114,NorthBay Basics Table Lamps #114,Décor & Lighting,Table Lamps,NorthBay Basics,8226.79,3515.18,4711.61,17,100,0.9,1095,SUP-12,Active,2022-01-27,slow,overstock_prone
+SKU-0115,NorthBay Studio Glassware #115,Kitchen & Dining,Glassware,NorthBay Studio,4545.36,2380.17,2165.19,18,50,0.98,1095,SUP-04,Active,2022-04-10,slow,overstock_prone
+SKU-0116,NorthBay Studio Electric Kettles #116,Small Appliances,Electric Kettles,NorthBay Studio,3540.47,1632.33,1908.14,29,100,0.95,730,SUP-04,Active,2022-04-19,fast,volatile
+SKU-0117,NorthBay Basics Bedding #117,Home Furnishings,Bedding,NorthBay Basics,3442.95,1659.41,1783.54,14,15,0.95,730,SUP-09,Active,2022-11-21,intermittent,healthy
+SKU-0118,NorthBay Basics Table Lamps #118,Décor & Lighting,Table Lamps,NorthBay Basics,4725.78,2727.41,1998.37,10,15,0.9,730,SUP-07,Active,2022-07-06,medium,healthy
+SKU-0119,NorthBay Studio Glassware #119,Kitchen & Dining,Glassware,NorthBay Studio,4535.3,1928.03,2607.27,28,15,0.95,1825,SUP-04,Active,2022-01-05,slow,healthy
+SKU-0120,NorthBay Studio Air Fryers #120,Small Appliances,Air Fryers,NorthBay Studio,2327.71,1194.3,1133.41,31,100,0.98,365,SUP-06,Active,2022-05-05,slow,healthy
+SKU-0121,NorthBay Reserve Rugs & Mats #121,Home Furnishings,Rugs & Mats,NorthBay Reserve,1057.15,457.56,599.59,19,100,0.9,365,SUP-12,Active,2022-09-20,fast,healthy
+SKU-0122,NorthBay Basics Vases & Planters #122,Décor & Lighting,Vases & Planters,NorthBay Basics,7834.38,3968.19,3866.19,12,25,0.95,365,SUP-11,Active,2022-01-05,fast,healthy
+SKU-0123,NorthBay Studio Dinnerware Sets #123,Kitchen & Dining,Dinnerware Sets,NorthBay Studio,1894.54,809.21,1085.33,17,15,0.98,1095,SUP-03,Active,2022-11-16,medium,healthy
+SKU-0124,NorthBay Basics Espresso Machines #124,Small Appliances,Espresso Machines,NorthBay Basics,15667.72,9316.23,6351.49,45,75,0.95,1095,SUP-14,Active,2022-08-13,medium,volatile
+SKU-0125,NorthBay Basics Bedding #125,Home Furnishings,Bedding,NorthBay Basics,3552.75,1878.41,1674.34,30,25,0.95,730,SUP-13,Active,2022-10-22,slow,healthy
+SKU-0126,NorthBay Basics Wall Art #126,Décor & Lighting,Wall Art,NorthBay Basics,4123.98,1789.24,2334.74,11,75,0.9,365,SUP-13,Active,2022-09-08,slow,healthy
+SKU-0127,NorthBay Studio Dinnerware Sets #127,Kitchen & Dining,Dinnerware Sets,NorthBay Studio,3054.57,1321.91,1732.66,28,100,0.95,365,SUP-14,Active,2022-06-10,medium,overstock_prone
+SKU-0128,NorthBay Studio Electric Kettles #128,Small Appliances,Electric Kettles,NorthBay Studio,10157.97,4444.22,5713.75,21,50,0.95,365,SUP-04,Active,2022-03-17,slow,healthy
+SKU-0129,NorthBay Reserve Curtains #129,Home Furnishings,Curtains,NorthBay Reserve,6208.41,3417.23,2791.18,24,15,0.95,730,SUP-02,Active,2022-08-06,slow,healthy
+SKU-0130,NorthBay Basics Vases & Planters #130,Décor & Lighting,Vases & Planters,NorthBay Basics,4869.77,2841.21,2028.56,16,25,0.95,1095,SUP-10,Active,2022-10-30,slow,healthy
+SKU-0131,NorthBay Basics Cutlery Sets #131,Kitchen & Dining,Cutlery Sets,NorthBay Basics,1302.81,563.68,739.13,15,15,0.9,730,SUP-12,Active,2022-06-01,slow,healthy
+SKU-0132,NorthBay Studio Espresso Machines #132,Small Appliances,Espresso Machines,NorthBay Studio,16423.78,8585.43,7838.35,33,50,0.95,365,SUP-08,Active,2022-01-11,medium,healthy
+SKU-0133,NorthBay Basics Bedding #133,Home Furnishings,Bedding,NorthBay Basics,1089.75,461.75,628.0,17,50,0.98,730,SUP-01,Active,2022-09-20,slow,stockout_prone
+SKU-0134,NorthBay Basics Vases & Planters #134,Décor & Lighting,Vases & Planters,NorthBay Basics,6775.88,3620.8,3155.08,23,75,0.98,1095,SUP-07,Active,2022-03-26,medium,stockout_prone
+SKU-0135,NorthBay Basics Dinnerware Sets #135,Kitchen & Dining,Dinnerware Sets,NorthBay Basics,5300.96,2893.36,2407.6,23,50,0.98,1095,SUP-09,Active,2022-08-20,fast,healthy
+SKU-0136,NorthBay Studio Air Fryers #136,Small Appliances,Air Fryers,NorthBay Studio,12754.5,7573.23,5181.27,31,15,0.95,1095,SUP-06,Active,2022-11-21,slow,overstock_prone
+SKU-0137,NorthBay Studio Rugs & Mats #137,Home Furnishings,Rugs & Mats,NorthBay Studio,6249.47,3681.66,2567.81,18,15,0.95,1095,SUP-05,Active,2022-09-04,slow,volatile
+SKU-0138,NorthBay Basics Wall Art #138,Décor & Lighting,Wall Art,NorthBay Basics,1983.93,1088.11,895.82,22,50,0.9,730,SUP-12,Active,2022-08-12,fast,healthy
+SKU-0139,NorthBay Basics Dinnerware Sets #139,Kitchen & Dining,Dinnerware Sets,NorthBay Basics,4010.39,2430.35,1580.04,14,50,0.95,1095,SUP-07,Active,2022-06-03,intermittent,stockout_prone
+SKU-0140,NorthBay Basics Espresso Machines #140,Small Appliances,Espresso Machines,NorthBay Basics,5339.07,2924.94,2414.13,31,15,0.95,730,SUP-03,Active,2022-08-29,intermittent,healthy
+SKU-0141,NorthBay Studio Curtains #141,Home Furnishings,Curtains,NorthBay Studio,2354.98,1398.44,956.54,26,50,0.95,730,SUP-01,Active,2022-02-21,fast,healthy
+SKU-0142,NorthBay Reserve Wall Art #142,Décor & Lighting,Wall Art,NorthBay Reserve,4533.66,2227.84,2305.82,22,100,0.98,1095,SUP-01,Active,2022-07-13,medium,stockout_prone
+SKU-0143,NorthBay Basics Cutlery Sets #143,Kitchen & Dining,Cutlery Sets,NorthBay Basics,2777.7,1677.09,1100.61,27,15,0.95,730,SUP-11,Active,2022-07-14,fast,healthy
+SKU-0144,NorthBay Basics Air Fryers #144,Small Appliances,Air Fryers,NorthBay Basics,14098.21,8434.52,5663.69,34,25,0.95,1825,SUP-11,Active,2022-12-07,medium,healthy
+SKU-0145,NorthBay Reserve Rugs & Mats #145,Home Furnishings,Rugs & Mats,NorthBay Reserve,2591.78,1398.7,1193.08,28,25,0.95,1825,SUP-12,Active,2022-05-17,slow,overstock_prone
+SKU-0146,NorthBay Studio Vases & Planters #146,Décor & Lighting,Vases & Planters,NorthBay Studio,1941.42,1127.89,813.53,18,15,0.98,730,SUP-12,Active,2022-03-28,medium,healthy
+SKU-0147,NorthBay Studio Cast Iron Cookware #147,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,1336.08,611.39,724.69,23,25,0.98,365,SUP-15,Active,2022-03-27,slow,healthy
+SKU-0148,NorthBay Studio Electric Kettles #148,Small Appliances,Electric Kettles,NorthBay Studio,5860.25,2502.89,3357.36,41,25,0.95,730,SUP-09,Active,2022-01-07,intermittent,healthy
+SKU-0149,NorthBay Basics Curtains #149,Home Furnishings,Curtains,NorthBay Basics,2956.41,1339.18,1617.23,27,25,0.9,1095,SUP-13,Active,2022-06-07,medium,healthy
+SKU-0150,NorthBay Studio Vases & Planters #150,Décor & Lighting,Vases & Planters,NorthBay Studio,4699.43,2152.39,2547.04,10,15,0.95,1095,SUP-12,Active,2022-08-31,medium,volatile
+SKU-0151,NorthBay Studio Cast Iron Cookware #151,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,2520.75,1321.17,1199.58,15,100,0.95,1095,SUP-12,Active,2022-04-07,medium,healthy
+SKU-0152,NorthBay Studio Espresso Machines #152,Small Appliances,Espresso Machines,NorthBay Studio,15373.2,8775.41,6597.79,30,75,0.95,365,SUP-15,Active,2022-01-13,intermittent,healthy
+SKU-0153,NorthBay Studio Bedding #153,Home Furnishings,Bedding,NorthBay Studio,3443.82,1935.82,1508.0,17,75,0.98,1825,SUP-03,Active,2022-06-19,slow,healthy
+SKU-0154,NorthBay Studio Wall Art #154,Décor & Lighting,Wall Art,NorthBay Studio,1666.8,718.79,948.01,14,50,0.95,1825,SUP-08,Active,2022-08-07,fast,stockout_prone
+SKU-0155,NorthBay Studio Dinnerware Sets #155,Kitchen & Dining,Dinnerware Sets,NorthBay Studio,3678.21,1704.55,1973.66,12,25,0.98,1825,SUP-03,Active,2022-05-22,slow,healthy
+SKU-0156,NorthBay Studio Espresso Machines #156,Small Appliances,Espresso Machines,NorthBay Studio,14551.13,8131.75,6419.38,25,75,0.95,365,SUP-02,Active,2022-05-27,slow,healthy
+SKU-0157,NorthBay Basics Bedding #157,Home Furnishings,Bedding,NorthBay Basics,3314.97,1474.05,1840.92,29,50,0.95,1825,SUP-03,Active,2022-12-16,slow,volatile
+SKU-0158,NorthBay Studio Wall Art #158,Décor & Lighting,Wall Art,NorthBay Studio,2482.87,1289.66,1193.21,14,50,0.95,730,SUP-11,Active,2022-02-22,intermittent,overstock_prone
+SKU-0159,NorthBay Studio Cutlery Sets #159,Kitchen & Dining,Cutlery Sets,NorthBay Studio,4169.44,2019.7,2149.74,27,50,0.9,1825,SUP-04,Active,2022-09-01,slow,healthy
+SKU-0160,NorthBay Reserve Espresso Machines #160,Small Appliances,Espresso Machines,NorthBay Reserve,16267.52,8940.46,7327.06,38,75,0.95,1825,SUP-06,Active,2022-12-07,medium,overstock_prone
+SKU-0161,NorthBay Reserve Rugs & Mats #161,Home Furnishings,Rugs & Mats,NorthBay Reserve,2419.09,1118.69,1300.4,21,25,0.98,1825,SUP-10,Active,2022-07-10,intermittent,healthy
+SKU-0162,NorthBay Studio Table Lamps #162,Décor & Lighting,Table Lamps,NorthBay Studio,5390.27,2632.09,2758.18,22,100,0.9,365,SUP-15,Active,2022-07-19,medium,healthy
+SKU-0163,NorthBay Basics Dinnerware Sets #163,Kitchen & Dining,Dinnerware Sets,NorthBay Basics,728.81,401.1,327.71,21,100,0.9,730,SUP-13,Active,2022-02-28,medium,healthy
+SKU-0164,NorthBay Basics Electric Kettles #164,Small Appliances,Electric Kettles,NorthBay Basics,5586.91,2495.55,3091.36,21,75,0.98,365,SUP-04,Active,2022-09-15,intermittent,healthy
+SKU-0165,NorthBay Studio Cushions & Throws #165,Home Furnishings,Cushions & Throws,NorthBay Studio,2115.25,1299.96,815.29,27,100,0.95,1095,SUP-06,Active,2022-11-23,medium,volatile
+SKU-0166,NorthBay Basics Vases & Planters #166,Décor & Lighting,Vases & Planters,NorthBay Basics,4151.3,2042.07,2109.23,18,25,0.98,1825,SUP-05,Active,2022-03-02,slow,healthy
+SKU-0167,NorthBay Studio Cutlery Sets #167,Kitchen & Dining,Cutlery Sets,NorthBay Studio,5360.35,2355.45,3004.9,21,100,0.95,365,SUP-11,Active,2022-03-05,slow,volatile
+SKU-0168,NorthBay Studio Espresso Machines #168,Small Appliances,Espresso Machines,NorthBay Studio,2848.18,1202.03,1646.15,22,15,0.9,1825,SUP-02,Active,2022-06-23,fast,stockout_prone
+SKU-0169,NorthBay Basics Bedding #169,Home Furnishings,Bedding,NorthBay Basics,5828.4,2869.36,2959.04,27,50,0.95,730,SUP-07,Active,2022-08-03,slow,volatile
+SKU-0170,NorthBay Studio Table Lamps #170,Décor & Lighting,Table Lamps,NorthBay Studio,6892.92,3914.21,2978.71,17,15,0.95,1825,SUP-07,Active,2022-03-16,fast,healthy
+SKU-0171,NorthBay Reserve Cutlery Sets #171,Kitchen & Dining,Cutlery Sets,NorthBay Reserve,842.61,393.49,449.12,23,25,0.95,1095,SUP-04,Active,2022-07-20,slow,healthy
+SKU-0172,NorthBay Basics Espresso Machines #172,Small Appliances,Espresso Machines,NorthBay Basics,6060.56,3085.69,2974.87,27,75,0.95,1095,SUP-05,Active,2022-11-06,medium,overstock_prone
+SKU-0173,NorthBay Basics Cushions & Throws #173,Home Furnishings,Cushions & Throws,NorthBay Basics,4690.75,2838.78,1851.97,25,50,0.95,365,SUP-12,Active,2022-07-27,fast,stockout_prone
+SKU-0174,NorthBay Basics Pendant Lights #174,Décor & Lighting,Pendant Lights,NorthBay Basics,2472.79,1122.77,1350.02,17,50,0.95,730,SUP-07,Active,2022-01-16,fast,volatile
+SKU-0175,NorthBay Reserve Cast Iron Cookware #175,Kitchen & Dining,Cast Iron Cookware,NorthBay Reserve,2933.65,1508.68,1424.97,22,75,0.95,365,SUP-10,Active,2022-11-19,medium,overstock_prone
+SKU-0176,NorthBay Reserve Cold Press Juicers #176,Small Appliances,Cold Press Juicers,NorthBay Reserve,9054.55,4765.73,4288.82,32,100,0.95,365,SUP-15,Active,2022-06-01,intermittent,overstock_prone
+SKU-0177,NorthBay Studio Bedding #177,Home Furnishings,Bedding,NorthBay Studio,3262.09,1520.63,1741.46,15,75,0.9,1095,SUP-09,Active,2022-10-15,medium,volatile
+SKU-0178,NorthBay Studio Table Lamps #178,Décor & Lighting,Table Lamps,NorthBay Studio,5550.45,3079.13,2471.32,25,75,0.95,1825,SUP-06,Active,2022-09-18,medium,healthy
+SKU-0179,NorthBay Basics Cast Iron Cookware #179,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,4268.27,1920.95,2347.32,27,100,0.95,730,SUP-06,Active,2022-04-12,intermittent,healthy
+SKU-0180,NorthBay Basics Cold Press Juicers #180,Small Appliances,Cold Press Juicers,NorthBay Basics,16404.78,6921.9,9482.88,26,50,0.95,1825,SUP-02,Active,2022-04-13,slow,healthy
+SKU-0181,NorthBay Basics Cushions & Throws #181,Home Furnishings,Cushions & Throws,NorthBay Basics,5547.17,3102.86,2444.31,17,50,0.98,1825,SUP-15,Active,2022-07-22,medium,stockout_prone
+SKU-0182,NorthBay Studio Wall Art #182,Décor & Lighting,Wall Art,NorthBay Studio,3134.72,1600.41,1534.31,22,50,0.95,1095,SUP-02,Active,2022-06-05,intermittent,healthy
+SKU-0183,NorthBay Studio Glassware #183,Kitchen & Dining,Glassware,NorthBay Studio,2119.92,1260.41,859.51,24,15,0.98,730,SUP-07,Active,2022-01-07,slow,healthy
+SKU-0184,NorthBay Basics Espresso Machines #184,Small Appliances,Espresso Machines,NorthBay Basics,2110.99,1175.25,935.74,39,15,0.95,730,SUP-02,Active,2022-02-10,medium,healthy
+SKU-0185,NorthBay Basics Bedding #185,Home Furnishings,Bedding,NorthBay Basics,923.82,415.94,507.88,14,15,0.95,730,SUP-02,Active,2022-10-10,slow,healthy
+SKU-0186,NorthBay Basics Pendant Lights #186,Décor & Lighting,Pendant Lights,NorthBay Basics,7655.11,4729.3,2925.81,11,15,0.98,1095,SUP-09,Active,2022-08-31,fast,healthy
+SKU-0187,NorthBay Basics Cutlery Sets #187,Kitchen & Dining,Cutlery Sets,NorthBay Basics,4110.32,2055.63,2054.69,15,100,0.95,730,SUP-15,Active,2022-06-11,slow,healthy
+SKU-0188,NorthBay Studio Electric Kettles #188,Small Appliances,Electric Kettles,NorthBay Studio,2475.66,1360.52,1115.14,29,75,0.9,730,SUP-08,Active,2022-09-05,medium,stockout_prone
+SKU-0189,NorthBay Basics Bedding #189,Home Furnishings,Bedding,NorthBay Basics,5419.96,2588.89,2831.07,24,15,0.95,1095,SUP-01,Active,2022-05-20,fast,healthy
+SKU-0190,NorthBay Studio Table Lamps #190,Décor & Lighting,Table Lamps,NorthBay Studio,4193.67,2252.9,1940.77,10,15,0.98,1825,SUP-02,Active,2022-06-08,slow,healthy
+SKU-0191,NorthBay Studio Glassware #191,Kitchen & Dining,Glassware,NorthBay Studio,5121.06,2200.08,2920.98,27,15,0.95,1825,SUP-08,Active,2022-04-15,slow,volatile
+SKU-0192,NorthBay Basics Espresso Machines #192,Small Appliances,Espresso Machines,NorthBay Basics,2948.9,1327.13,1621.77,45,75,0.95,730,SUP-01,Active,2022-07-10,fast,healthy
+SKU-0193,NorthBay Basics Rugs & Mats #193,Home Furnishings,Rugs & Mats,NorthBay Basics,1227.6,581.94,645.66,16,100,0.95,1095,SUP-03,Active,2022-04-13,medium,healthy
+SKU-0194,NorthBay Basics Vases & Planters #194,Décor & Lighting,Vases & Planters,NorthBay Basics,3515.01,2056.42,1458.59,25,25,0.95,1825,SUP-06,Active,2022-05-30,slow,overstock_prone
+SKU-0195,NorthBay Reserve Cast Iron Cookware #195,Kitchen & Dining,Cast Iron Cookware,NorthBay Reserve,2359.91,1061.15,1298.76,15,25,0.95,1825,SUP-12,Active,2022-07-11,slow,volatile
+SKU-0196,NorthBay Reserve Espresso Machines #196,Small Appliances,Espresso Machines,NorthBay Reserve,4013.79,2417.58,1596.21,38,75,0.95,365,SUP-11,Active,2022-09-10,slow,healthy
+SKU-0197,NorthBay Studio Curtains #197,Home Furnishings,Curtains,NorthBay Studio,2709.77,1221.73,1488.04,26,50,0.98,730,SUP-11,Active,2022-12-20,slow,volatile
+SKU-0198,NorthBay Studio Pendant Lights #198,Décor & Lighting,Pendant Lights,NorthBay Studio,7592.23,3964.26,3627.97,20,15,0.9,1095,SUP-05,Phasing Out,2022-10-25,slow,healthy
+SKU-0199,NorthBay Studio Glassware #199,Kitchen & Dining,Glassware,NorthBay Studio,2677.44,1438.13,1239.31,16,50,0.95,365,SUP-09,Active,2022-07-30,slow,healthy
+SKU-0200,NorthBay Basics Air Fryers #200,Small Appliances,Air Fryers,NorthBay Basics,3397.4,2097.03,1300.37,29,25,0.95,730,SUP-07,Active,2022-09-05,intermittent,healthy
+SKU-0201,NorthBay Basics Bedding #201,Home Furnishings,Bedding,NorthBay Basics,4183.04,2575.22,1607.82,20,50,0.95,730,SUP-10,Active,2022-02-24,intermittent,healthy
+SKU-0202,NorthBay Reserve Table Lamps #202,Décor & Lighting,Table Lamps,NorthBay Reserve,775.92,387.75,388.17,22,75,0.95,1825,SUP-04,Active,2022-03-27,slow,healthy
+SKU-0203,NorthBay Reserve Dinnerware Sets #203,Kitchen & Dining,Dinnerware Sets,NorthBay Reserve,663.85,352.51,311.34,27,50,0.9,730,SUP-15,Active,2022-03-18,intermittent,healthy
+SKU-0204,NorthBay Basics Espresso Machines #204,Small Appliances,Espresso Machines,NorthBay Basics,14187.02,7876.91,6310.11,20,50,0.98,730,SUP-01,Active,2022-09-17,medium,healthy
+SKU-0205,NorthBay Reserve Bedding #205,Home Furnishings,Bedding,NorthBay Reserve,2315.11,1201.98,1113.13,14,15,0.95,1825,SUP-01,Active,2022-12-29,fast,healthy
+SKU-0206,NorthBay Studio Vases & Planters #206,Décor & Lighting,Vases & Planters,NorthBay Studio,4585.91,2054.92,2530.99,25,50,0.95,1825,SUP-03,Active,2022-08-04,medium,stockout_prone
+SKU-0207,NorthBay Reserve Dinnerware Sets #207,Kitchen & Dining,Dinnerware Sets,NorthBay Reserve,1391.74,778.98,612.76,21,15,0.95,365,SUP-03,Active,2022-06-10,intermittent,healthy
+SKU-0208,NorthBay Basics Air Fryers #208,Small Appliances,Air Fryers,NorthBay Basics,5673.09,3114.28,2558.81,24,25,0.95,730,SUP-07,Active,2022-07-18,medium,healthy
+SKU-0209,NorthBay Basics Bedding #209,Home Furnishings,Bedding,NorthBay Basics,2018.84,888.25,1130.59,28,25,0.9,730,SUP-07,Active,2022-06-09,slow,healthy
+SKU-0210,NorthBay Basics Vases & Planters #210,Décor & Lighting,Vases & Planters,NorthBay Basics,1632.94,748.88,884.06,13,100,0.95,1095,SUP-14,Active,2022-11-07,medium,healthy
+SKU-0211,NorthBay Studio Glassware #211,Kitchen & Dining,Glassware,NorthBay Studio,1272.43,656.79,615.64,28,50,0.9,1095,SUP-13,Phasing Out,2022-07-21,medium,healthy
+SKU-0212,NorthBay Studio Espresso Machines #212,Small Appliances,Espresso Machines,NorthBay Studio,2381.54,1424.99,956.55,44,25,0.95,365,SUP-12,Active,2022-03-07,fast,healthy
+SKU-0213,NorthBay Studio Cushions & Throws #213,Home Furnishings,Cushions & Throws,NorthBay Studio,2995.46,1654.09,1341.37,17,25,0.9,365,SUP-06,Active,2022-05-26,medium,stockout_prone
+SKU-0214,NorthBay Reserve Pendant Lights #214,Décor & Lighting,Pendant Lights,NorthBay Reserve,7935.36,4119.69,3815.67,22,50,0.95,1825,SUP-12,Active,2022-12-20,medium,healthy
+SKU-0215,NorthBay Reserve Glassware #215,Kitchen & Dining,Glassware,NorthBay Reserve,2643.46,1233.5,1409.96,26,100,0.95,1825,SUP-11,Active,2022-12-08,slow,healthy
+SKU-0216,NorthBay Basics Electric Kettles #216,Small Appliances,Electric Kettles,NorthBay Basics,3171.08,1549.88,1621.2,45,15,0.95,1825,SUP-03,Active,2022-04-07,fast,overstock_prone
+SKU-0217,NorthBay Studio Rugs & Mats #217,Home Furnishings,Rugs & Mats,NorthBay Studio,2372.77,1274.57,1098.2,28,15,0.95,730,SUP-13,Active,2022-07-17,slow,stockout_prone
+SKU-0218,NorthBay Reserve Vases & Planters #218,Décor & Lighting,Vases & Planters,NorthBay Reserve,2735.69,1207.13,1528.56,16,50,0.95,1095,SUP-14,Active,2022-04-06,slow,healthy
+SKU-0219,NorthBay Basics Dinnerware Sets #219,Kitchen & Dining,Dinnerware Sets,NorthBay Basics,1216.6,668.66,547.94,16,50,0.95,1825,SUP-10,Active,2022-07-09,medium,healthy
+SKU-0220,NorthBay Basics Cold Press Juicers #220,Small Appliances,Cold Press Juicers,NorthBay Basics,16023.62,7248.65,8774.97,45,15,0.95,365,SUP-03,Active,2022-06-12,slow,healthy
+SKU-0221,NorthBay Studio Cushions & Throws #221,Home Furnishings,Cushions & Throws,NorthBay Studio,6098.71,3640.7,2458.01,23,50,0.95,365,SUP-06,Active,2022-09-29,medium,stockout_prone
+SKU-0222,NorthBay Studio Table Lamps #222,Décor & Lighting,Table Lamps,NorthBay Studio,4646.72,2640.68,2006.04,23,75,0.9,1825,SUP-02,Active,2022-08-09,medium,healthy
+SKU-0223,NorthBay Studio Dinnerware Sets #223,Kitchen & Dining,Dinnerware Sets,NorthBay Studio,3417.56,1628.08,1789.48,15,50,0.9,365,SUP-08,Active,2022-04-16,slow,volatile
+SKU-0224,NorthBay Reserve Electric Kettles #224,Small Appliances,Electric Kettles,NorthBay Reserve,8890.93,3872.25,5018.68,31,15,0.9,1825,SUP-14,Active,2022-06-02,medium,healthy
+SKU-0225,NorthBay Studio Cushions & Throws #225,Home Furnishings,Cushions & Throws,NorthBay Studio,3378.97,1813.72,1565.25,19,15,0.98,730,SUP-05,Active,2022-02-22,slow,healthy
+SKU-0226,NorthBay Studio Wall Art #226,Décor & Lighting,Wall Art,NorthBay Studio,5764.47,3183.12,2581.35,11,75,0.9,1825,SUP-09,Active,2022-03-16,fast,healthy
+SKU-0227,NorthBay Studio Dinnerware Sets #227,Kitchen & Dining,Dinnerware Sets,NorthBay Studio,2066.81,1129.16,937.65,26,50,0.95,365,SUP-14,Active,2022-03-02,slow,overstock_prone
+SKU-0228,NorthBay Studio Cold Press Juicers #228,Small Appliances,Cold Press Juicers,NorthBay Studio,4695.31,2665.16,2030.15,26,75,0.95,730,SUP-05,Active,2022-10-04,medium,overstock_prone
+SKU-0229,NorthBay Studio Curtains #229,Home Furnishings,Curtains,NorthBay Studio,4148.86,1770.57,2378.29,27,50,0.98,1825,SUP-05,Active,2022-02-03,slow,healthy
+SKU-0230,NorthBay Basics Wall Art #230,Décor & Lighting,Wall Art,NorthBay Basics,8395.02,4435.3,3959.72,16,15,0.95,365,SUP-01,Active,2022-12-21,slow,stockout_prone
+SKU-0231,NorthBay Basics Cast Iron Cookware #231,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,4840.28,2392.12,2448.16,20,75,0.95,1825,SUP-14,Active,2022-05-31,intermittent,healthy
+SKU-0232,NorthBay Basics Espresso Machines #232,Small Appliances,Espresso Machines,NorthBay Basics,4979.16,2230.32,2748.84,20,75,0.95,365,SUP-12,Active,2022-12-25,slow,healthy
+SKU-0233,NorthBay Studio Rugs & Mats #233,Home Furnishings,Rugs & Mats,NorthBay Studio,1333.42,589.9,743.52,25,75,0.9,730,SUP-11,Active,2022-09-23,medium,healthy
+SKU-0234,NorthBay Basics Table Lamps #234,Décor & Lighting,Table Lamps,NorthBay Basics,3030.27,1697.48,1332.79,21,15,0.95,365,SUP-11,Phasing Out,2022-05-21,intermittent,healthy
+SKU-0235,NorthBay Reserve Cutlery Sets #235,Kitchen & Dining,Cutlery Sets,NorthBay Reserve,4270.34,2244.8,2025.54,24,50,0.95,730,SUP-04,Active,2022-11-29,medium,healthy
+SKU-0236,NorthBay Basics Cold Press Juicers #236,Small Appliances,Cold Press Juicers,NorthBay Basics,15002.37,6315.97,8686.4,31,15,0.95,365,SUP-13,Active,2022-12-31,medium,volatile
+SKU-0237,NorthBay Studio Bedding #237,Home Furnishings,Bedding,NorthBay Studio,5155.23,2684.55,2470.68,18,100,0.9,365,SUP-10,Active,2022-01-19,intermittent,healthy
+SKU-0238,NorthBay Studio Wall Art #238,Décor & Lighting,Wall Art,NorthBay Studio,8389.63,4850.95,3538.68,11,15,0.95,730,SUP-02,Active,2022-08-01,medium,healthy
+SKU-0239,NorthBay Basics Cast Iron Cookware #239,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,1149.83,614.38,535.45,18,75,0.98,730,SUP-02,Active,2022-03-04,slow,healthy
+SKU-0240,NorthBay Studio Cold Press Juicers #240,Small Appliances,Cold Press Juicers,NorthBay Studio,2816.33,1336.13,1480.2,21,25,0.95,365,SUP-15,Active,2023-01-01,slow,healthy
+SKU-0241,NorthBay Studio Rugs & Mats #241,Home Furnishings,Rugs & Mats,NorthBay Studio,935.41,569.42,365.99,28,100,0.95,1095,SUP-09,Active,2022-07-14,medium,stockout_prone
+SKU-0242,NorthBay Basics Pendant Lights #242,Décor & Lighting,Pendant Lights,NorthBay Basics,4555.22,1923.13,2632.09,22,15,0.98,365,SUP-07,Active,2022-01-22,slow,healthy
+SKU-0243,NorthBay Basics Cast Iron Cookware #243,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,3910.33,2218.47,1691.86,27,50,0.95,1095,SUP-13,Active,2022-08-27,slow,healthy
+SKU-0244,NorthBay Studio Air Fryers #244,Small Appliances,Air Fryers,NorthBay Studio,5487.54,3001.63,2485.91,28,15,0.98,1095,SUP-01,Active,2022-10-16,intermittent,stockout_prone
+SKU-0245,NorthBay Basics Cushions & Throws #245,Home Furnishings,Cushions & Throws,NorthBay Basics,2153.95,1270.57,883.38,25,15,0.9,1825,SUP-09,Active,2022-09-16,medium,stockout_prone
+SKU-0246,NorthBay Basics Pendant Lights #246,Décor & Lighting,Pendant Lights,NorthBay Basics,1167.71,585.69,582.02,10,75,0.95,365,SUP-06,Active,2022-06-11,medium,healthy
+SKU-0247,NorthBay Studio Cast Iron Cookware #247,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,1406.93,837.43,569.5,28,50,0.95,1825,SUP-06,Active,2022-10-13,slow,overstock_prone
+SKU-0248,NorthBay Basics Air Fryers #248,Small Appliances,Air Fryers,NorthBay Basics,5434.83,2765.37,2669.46,43,25,0.95,1825,SUP-12,Active,2022-06-21,fast,healthy
+SKU-0249,NorthBay Studio Curtains #249,Home Furnishings,Curtains,NorthBay Studio,3863.39,2018.92,1844.47,30,15,0.95,1095,SUP-06,Active,2022-01-10,medium,healthy
+SKU-0250,NorthBay Studio Vases & Planters #250,Décor & Lighting,Vases & Planters,NorthBay Studio,2164.05,1010.47,1153.58,24,15,0.98,1095,SUP-13,Active,2022-01-28,fast,overstock_prone
+SKU-0251,NorthBay Basics Cast Iron Cookware #251,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,4274.61,1942.21,2332.4,23,75,0.95,730,SUP-14,Active,2022-07-15,slow,overstock_prone
+SKU-0252,NorthBay Basics Espresso Machines #252,Small Appliances,Espresso Machines,NorthBay Basics,11565.87,6159.69,5406.18,44,75,0.98,365,SUP-11,Active,2022-07-04,medium,healthy
+SKU-0253,NorthBay Basics Rugs & Mats #253,Home Furnishings,Rugs & Mats,NorthBay Basics,4057.95,2476.1,1581.85,23,50,0.95,1095,SUP-08,Active,2022-03-31,slow,stockout_prone
+SKU-0254,NorthBay Basics Wall Art #254,Décor & Lighting,Wall Art,NorthBay Basics,6842.92,3387.57,3455.35,21,50,0.95,365,SUP-15,Active,2022-03-24,slow,volatile
+SKU-0255,NorthBay Reserve Cutlery Sets #255,Kitchen & Dining,Cutlery Sets,NorthBay Reserve,3879.21,2334.97,1544.24,20,50,0.95,1095,SUP-06,Active,2022-12-27,slow,overstock_prone
+SKU-0256,NorthBay Basics Air Fryers #256,Small Appliances,Air Fryers,NorthBay Basics,6777.29,3597.05,3180.24,35,100,0.95,1095,SUP-13,Active,2022-08-19,fast,volatile
+SKU-0257,NorthBay Studio Cushions & Throws #257,Home Furnishings,Cushions & Throws,NorthBay Studio,1900.24,1036.25,863.99,14,100,0.95,365,SUP-14,Active,2022-01-07,fast,healthy
+SKU-0258,NorthBay Basics Table Lamps #258,Décor & Lighting,Table Lamps,NorthBay Basics,3628.41,1689.02,1939.39,15,100,0.9,1095,SUP-13,Active,2022-01-29,medium,stockout_prone
+SKU-0259,NorthBay Studio Cast Iron Cookware #259,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,5112.68,2266.28,2846.4,18,50,0.95,365,SUP-10,Active,2022-05-12,fast,healthy
+SKU-0260,NorthBay Studio Cold Press Juicers #260,Small Appliances,Cold Press Juicers,NorthBay Studio,11840.32,5090.16,6750.16,32,100,0.95,365,SUP-08,Active,2022-02-27,slow,overstock_prone
+SKU-0261,NorthBay Basics Rugs & Mats #261,Home Furnishings,Rugs & Mats,NorthBay Basics,4461.21,2353.2,2108.01,29,50,0.9,365,SUP-11,Active,2022-10-01,medium,healthy
+SKU-0262,NorthBay Studio Pendant Lights #262,Décor & Lighting,Pendant Lights,NorthBay Studio,2390.92,1220.03,1170.89,23,25,0.9,1095,SUP-15,Active,2022-08-09,slow,healthy
+SKU-0263,NorthBay Reserve Cutlery Sets #263,Kitchen & Dining,Cutlery Sets,NorthBay Reserve,1212.52,530.25,682.27,22,100,0.98,1095,SUP-01,Active,2022-09-30,fast,overstock_prone
+SKU-0264,NorthBay Basics Cold Press Juicers #264,Small Appliances,Cold Press Juicers,NorthBay Basics,2042.29,874.88,1167.41,36,50,0.95,730,SUP-14,Phasing Out,2022-11-10,medium,volatile
+SKU-0265,NorthBay Basics Curtains #265,Home Furnishings,Curtains,NorthBay Basics,3290.84,1816.73,1474.11,22,25,0.95,730,SUP-13,Active,2022-02-12,medium,healthy
+SKU-0266,NorthBay Studio Pendant Lights #266,Décor & Lighting,Pendant Lights,NorthBay Studio,2922.29,1494.28,1428.01,12,50,0.95,1825,SUP-04,Active,2022-03-31,slow,volatile
+SKU-0267,NorthBay Studio Glassware #267,Kitchen & Dining,Glassware,NorthBay Studio,1775.06,935.91,839.15,23,15,0.95,1095,SUP-14,Active,2022-05-22,fast,healthy
+SKU-0268,NorthBay Basics Espresso Machines #268,Small Appliances,Espresso Machines,NorthBay Basics,7622.16,4662.85,2959.31,33,15,0.95,1825,SUP-11,Phasing Out,2022-12-03,intermittent,overstock_prone
+SKU-0269,NorthBay Basics Rugs & Mats #269,Home Furnishings,Rugs & Mats,NorthBay Basics,5512.62,2816.72,2695.9,23,75,0.95,1825,SUP-03,Active,2022-03-15,slow,healthy
+SKU-0270,NorthBay Studio Table Lamps #270,Décor & Lighting,Table Lamps,NorthBay Studio,7205.98,4357.11,2848.87,24,15,0.9,730,SUP-11,Active,2022-05-27,fast,healthy
+SKU-0271,NorthBay Basics Cast Iron Cookware #271,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,2481.97,1157.76,1324.21,14,100,0.95,365,SUP-10,Active,2022-02-20,fast,volatile
+SKU-0272,NorthBay Studio Cold Press Juicers #272,Small Appliances,Cold Press Juicers,NorthBay Studio,7780.78,3357.4,4423.38,43,100,0.95,1095,SUP-09,Active,2022-03-02,fast,healthy
+SKU-0273,NorthBay Studio Rugs & Mats #273,Home Furnishings,Rugs & Mats,NorthBay Studio,1621.7,806.24,815.46,26,25,0.95,730,SUP-13,Active,2022-12-14,medium,stockout_prone
+SKU-0274,NorthBay Basics Vases & Planters #274,Décor & Lighting,Vases & Planters,NorthBay Basics,6705.87,3794.0,2911.87,23,50,0.9,1825,SUP-03,Active,2022-08-17,medium,healthy
+SKU-0275,NorthBay Reserve Cutlery Sets #275,Kitchen & Dining,Cutlery Sets,NorthBay Reserve,5295.96,3041.64,2254.32,27,100,0.95,730,SUP-09,Active,2022-11-08,slow,healthy
+SKU-0276,NorthBay Studio Air Fryers #276,Small Appliances,Air Fryers,NorthBay Studio,5347.32,3227.18,2120.14,28,50,0.98,1095,SUP-09,Active,2022-06-17,fast,stockout_prone
+SKU-0277,NorthBay Basics Bedding #277,Home Furnishings,Bedding,NorthBay Basics,1992.88,907.58,1085.3,21,15,0.95,1825,SUP-06,Active,2022-03-06,slow,overstock_prone
+SKU-0278,NorthBay Studio Pendant Lights #278,Décor & Lighting,Pendant Lights,NorthBay Studio,7564.78,3586.6,3978.18,23,75,0.95,1825,SUP-14,Active,2022-10-31,medium,healthy
+SKU-0279,NorthBay Basics Cast Iron Cookware #279,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,4210.13,2228.95,1981.18,19,100,0.95,1095,SUP-14,Active,2022-08-05,slow,healthy
+SKU-0280,NorthBay Basics Electric Kettles #280,Small Appliances,Electric Kettles,NorthBay Basics,7629.33,4128.87,3500.46,25,25,0.95,1825,SUP-09,Active,2022-06-10,fast,overstock_prone
+SKU-0281,NorthBay Basics Rugs & Mats #281,Home Furnishings,Rugs & Mats,NorthBay Basics,3463.46,1721.84,1741.62,15,50,0.95,730,SUP-09,Active,2022-07-04,fast,healthy
+SKU-0282,NorthBay Basics Table Lamps #282,Décor & Lighting,Table Lamps,NorthBay Basics,7060.9,3324.77,3736.13,18,25,0.98,1825,SUP-01,Active,2022-06-03,slow,volatile
+SKU-0283,NorthBay Studio Cast Iron Cookware #283,Kitchen & Dining,Cast Iron Cookware,NorthBay Studio,4182.82,2393.59,1789.23,21,75,0.95,1095,SUP-12,Active,2022-07-08,fast,stockout_prone
+SKU-0284,NorthBay Reserve Air Fryers #284,Small Appliances,Air Fryers,NorthBay Reserve,16308.09,7257.59,9050.5,29,15,0.98,365,SUP-03,Active,2022-06-17,fast,healthy
+SKU-0285,NorthBay Basics Curtains #285,Home Furnishings,Curtains,NorthBay Basics,3836.62,2081.09,1755.53,28,100,0.95,730,SUP-11,Active,2022-12-25,medium,volatile
+SKU-0286,NorthBay Studio Pendant Lights #286,Décor & Lighting,Pendant Lights,NorthBay Studio,5678.15,2416.63,3261.52,13,25,0.95,365,SUP-02,Active,2022-03-06,slow,stockout_prone
+SKU-0287,NorthBay Basics Cutlery Sets #287,Kitchen & Dining,Cutlery Sets,NorthBay Basics,5453.91,3368.18,2085.73,15,50,0.95,1825,SUP-07,Active,2022-01-30,medium,healthy
+SKU-0288,NorthBay Studio Cold Press Juicers #288,Small Appliances,Cold Press Juicers,NorthBay Studio,12689.98,5876.2,6813.78,30,15,0.95,1825,SUP-05,Phasing Out,2022-06-27,intermittent,healthy
+SKU-0289,NorthBay Basics Rugs & Mats #289,Home Furnishings,Rugs & Mats,NorthBay Basics,2704.34,1529.55,1174.79,19,50,0.9,1095,SUP-09,Active,2022-12-12,fast,volatile
+SKU-0290,NorthBay Studio Table Lamps #290,Décor & Lighting,Table Lamps,NorthBay Studio,7270.83,4253.47,3017.36,19,75,0.95,1825,SUP-04,Active,2022-07-13,fast,volatile
+SKU-0291,NorthBay Basics Cutlery Sets #291,Kitchen & Dining,Cutlery Sets,NorthBay Basics,616.33,354.35,261.98,15,75,0.98,365,SUP-01,Active,2022-11-23,intermittent,volatile
+SKU-0292,NorthBay Reserve Air Fryers #292,Small Appliances,Air Fryers,NorthBay Reserve,12066.9,5854.49,6212.41,40,50,0.95,1825,SUP-09,Active,2022-04-02,slow,healthy
+SKU-0293,NorthBay Studio Rugs & Mats #293,Home Furnishings,Rugs & Mats,NorthBay Studio,6185.39,3284.11,2901.28,19,75,0.98,1825,SUP-02,Active,2022-03-10,medium,healthy
+SKU-0294,NorthBay Reserve Pendant Lights #294,Décor & Lighting,Pendant Lights,NorthBay Reserve,986.12,462.67,523.45,22,25,0.95,1095,SUP-10,Active,2022-06-13,slow,healthy
+SKU-0295,NorthBay Studio Glassware #295,Kitchen & Dining,Glassware,NorthBay Studio,971.78,478.55,493.23,14,25,0.95,1095,SUP-04,Active,2022-03-29,fast,healthy
+SKU-0296,NorthBay Reserve Cold Press Juicers #296,Small Appliances,Cold Press Juicers,NorthBay Reserve,7465.59,3380.62,4084.97,34,15,0.95,1825,SUP-11,Active,2022-10-12,medium,healthy
+SKU-0297,NorthBay Basics Bedding #297,Home Furnishings,Bedding,NorthBay Basics,2813.75,1362.14,1451.61,23,75,0.98,730,SUP-12,Active,2022-12-29,slow,healthy
+SKU-0298,NorthBay Studio Pendant Lights #298,Décor & Lighting,Pendant Lights,NorthBay Studio,2533.64,1404.25,1129.39,19,75,0.9,365,SUP-09,Phasing Out,2022-02-06,fast,healthy
+SKU-0299,NorthBay Basics Cast Iron Cookware #299,Kitchen & Dining,Cast Iron Cookware,NorthBay Basics,651.73,400.38,251.35,26,50,0.95,1095,SUP-08,Active,2022-03-28,medium,stockout_prone
+SKU-0300,NorthBay Studio Espresso Machines #300,Small Appliances,Espresso Machines,NorthBay Studio,11783.44,7178.34,4605.1,44,100,0.98,1095,SUP-14,Active,2022-01-27,medium,volatile

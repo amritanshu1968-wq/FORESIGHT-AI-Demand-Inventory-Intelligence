@@ -1,0 +1,1 @@
+"""FORESIGHT data module."""
